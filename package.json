@@ -1,5 +1,5 @@
 {
-  "name": "find_rep_app",
+  "name": "Check-Your-Rep2.0",
   "version": "1.0.0",
   "description": "Proj1",
   "main": "server.js",
@@ -8,7 +8,7 @@
     "start": "node server.js",
     "dev": "nodemon server.js"
   },
-  "author": "Andrew, Evan, Garrett",
+  "author": "Andrew, Evan",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
@@ -18,10 +18,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/atfcreative/find_rep_app.git"
+    "url": "git+https://github.com/atfcreative/check-your-rep-2.0"
   },
   "bugs": {
-    "url": "https://github.com/atfcreative/find_rep_app/issues"
+    "url": "https://github.com/atfcreative/check-your-rep-2.0/issues"
   },
-  "homepage": "https://github.com/atfcreative/find_rep_app#readme"
+  "homepage": "https://github.com/atfcreative/check-your-rep-2.0#readme"
 }
